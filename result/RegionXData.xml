@@ -1,0 +1,360 @@
+<?xml version='1.0'?>
+<RegionXData>
+    <Region>
+        <Name>Gauteng</Name>
+        <Guid>Gauteng</Guid>
+        <DataUrl>Gauteng</DataUrl>
+    </Region>
+    <Region>
+        <Name>North West</Name>
+        <Guid>North West</Guid>
+        <DataUrl>North West</DataUrl>
+    </Region>
+    <Region>
+        <Name>Mpumalanga</Name>
+        <Guid>Mpumalanga</Guid>
+        <DataUrl>Mpumalanga</DataUrl>
+    </Region>
+    <Region>
+        <Name>Limpopo</Name>
+        <Guid>Limpopo</Guid>
+        <DataUrl>Limpopo</DataUrl>
+    </Region>
+    <Region>
+        <Name>KwaZulu-Natal</Name>
+        <Guid>KwaZulu-Natal</Guid>
+        <DataUrl>KwaZulu-Natal</DataUrl>
+    </Region>
+    <Region>
+        <Name>Free State</Name>
+        <Guid>Free State</Guid>
+        <DataUrl>Free State</DataUrl>
+    </Region>
+    <Region>
+        <Name>Eastern Cape</Name>
+        <Guid>Eastern Cape</Guid>
+        <DataUrl>Eastern Cape</DataUrl>
+    </Region>
+    <Region>
+        <Name>Western Cape</Name>
+        <Guid>Western Cape</Guid>
+        <DataUrl>Western Cape</DataUrl>
+    </Region>
+    <Region>
+        <Name>Northern Cape</Name>
+        <Guid>Northern Cape</Guid>
+        <DataUrl>Northern Cape</DataUrl>
+    </Region>
+    <Region>
+        <Name>ZF Mgcawu District Municipality</Name>
+        <Guid>ZF Mgcawu District Municipality</Guid>
+        <DataUrl>ZF Mgcawu District Municipality</DataUrl>
+        <ParentRegion>Northern Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Nelson Mandela Bay Metropolitan Municipality</Name>
+        <Guid>Nelson Mandela Bay Metropolitan Municipality</Guid>
+        <DataUrl>Nelson Mandela Bay Metropolitan Municipality</DataUrl>
+        <ParentRegion>Eastern Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Buffalo City Metropolitan Municipality</Name>
+        <Guid>Buffalo City Metropolitan Municipality</Guid>
+        <DataUrl>Buffalo City Metropolitan Municipality</DataUrl>
+        <ParentRegion>Eastern Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Chris Hani District Municipality</Name>
+        <Guid>Chris Hani District Municipality</Guid>
+        <DataUrl>Chris Hani District Municipality</DataUrl>
+        <ParentRegion>Eastern Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Xhariep District Municipality</Name>
+        <Guid>Xhariep District Municipality</Guid>
+        <DataUrl>Xhariep District Municipality</DataUrl>
+        <ParentRegion>Free State</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Mangaung Metropolitan Municipality</Name>
+        <Guid>Mangaung Metropolitan Municipality</Guid>
+        <DataUrl>Mangaung Metropolitan Municipality</DataUrl>
+        <ParentRegion>Free State</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Ekurhuleni Metropolitan Municipality</Name>
+        <Guid>Ekurhuleni Metropolitan Municipality</Guid>
+        <DataUrl>Ekurhuleni Metropolitan Municipality</DataUrl>
+        <ParentRegion>Gauteng</ParentRegion>
+    </Region>
+    <Region>
+        <Name>City of Johannesburg Metropolitan Municipality</Name>
+        <Guid>City of Johannesburg Metropolitan Municipality</Guid>
+        <DataUrl>City of Johannesburg Metropolitan Municipality</DataUrl>
+        <ParentRegion>Gauteng</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Uthukela District Municipality</Name>
+        <Guid>Uthukela District Municipality</Guid>
+        <DataUrl>Uthukela District Municipality</DataUrl>
+        <ParentRegion>KwaZulu-Natal</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Umkhanyakude District Municipality</Name>
+        <Guid>Umkhanyakude District Municipality</Guid>
+        <DataUrl>Umkhanyakude District Municipality</DataUrl>
+        <ParentRegion>KwaZulu-Natal</ParentRegion>
+    </Region>
+    <Region>
+        <Name>eThekwini Metropolitan Municipality</Name>
+        <Guid>eThekwini Metropolitan Municipality</Guid>
+        <DataUrl>eThekwini Metropolitan Municipality</DataUrl>
+        <ParentRegion>KwaZulu-Natal</ParentRegion>
+    </Region>
+    <Region>
+        <Name>uThungulu District Municipality</Name>
+        <Guid>uThungulu District Municipality</Guid>
+        <DataUrl>uThungulu District Municipality</DataUrl>
+        <ParentRegion>KwaZulu-Natal</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Umzinyathi District Municipality</Name>
+        <Guid>Umzinyathi District Municipality</Guid>
+        <DataUrl>Umzinyathi District Municipality</DataUrl>
+        <ParentRegion>KwaZulu-Natal</ParentRegion>
+    </Region>
+    <Region>
+        <Name>uMgungundlovu District Municipality</Name>
+        <Guid>uMgungundlovu District Municipality</Guid>
+        <DataUrl>uMgungundlovu District Municipality</DataUrl>
+        <ParentRegion>KwaZulu-Natal</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Capricorn District Municipality</Name>
+        <Guid>Capricorn District Municipality</Guid>
+        <DataUrl>Capricorn District Municipality</DataUrl>
+        <ParentRegion>Limpopo</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Amajuba District Municipality</Name>
+        <Guid>Amajuba District Municipality</Guid>
+        <DataUrl>Amajuba District Municipality</DataUrl>
+        <ParentRegion>KwaZulu-Natal</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Sedibeng District Municipality</Name>
+        <Guid>Sedibeng District Municipality</Guid>
+        <DataUrl>Sedibeng District Municipality</DataUrl>
+        <ParentRegion>Gauteng</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Nkangala</Name>
+        <Guid>Nkangala</Guid>
+        <DataUrl>Nkangala</DataUrl>
+        <ParentRegion>Mpumalanga</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Sekhukhune District Municipality</Name>
+        <Guid>Sekhukhune District Municipality</Guid>
+        <DataUrl>Sekhukhune District Municipality</DataUrl>
+        <ParentRegion>Limpopo</ParentRegion>
+    </Region>
+    <Region>
+        <Name>City of Tshwane Metropolitan Municipality</Name>
+        <Guid>City of Tshwane Metropolitan Municipality</Guid>
+        <DataUrl>City of Tshwane Metropolitan Municipality</DataUrl>
+        <ParentRegion>Gauteng</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Waterberg District Municipality</Name>
+        <Guid>Waterberg District Municipality</Guid>
+        <DataUrl>Waterberg District Municipality</DataUrl>
+        <ParentRegion>Limpopo</ParentRegion>
+    </Region>
+    <Region>
+        <Name>John Taolo Gaetsewe District Municipality</Name>
+        <Guid>John Taolo Gaetsewe District Municipality</Guid>
+        <DataUrl>John Taolo Gaetsewe District Municipality</DataUrl>
+        <ParentRegion>Northern Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Bojanala Platinum District Municipality</Name>
+        <Guid>Bojanala Platinum District Municipality</Guid>
+        <DataUrl>Bojanala Platinum District Municipality</DataUrl>
+        <ParentRegion>North West</ParentRegion>
+    </Region>
+    <Region>
+        <Name>West Rand District Municipality</Name>
+        <Guid>West Rand District Municipality</Guid>
+        <DataUrl>West Rand District Municipality</DataUrl>
+        <ParentRegion>Gauteng</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Fezile Dabi District Municipality</Name>
+        <Guid>Fezile Dabi District Municipality</Guid>
+        <DataUrl>Fezile Dabi District Municipality</DataUrl>
+        <ParentRegion>Free State</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Lejweleputswa District Municipality</Name>
+        <Guid>Lejweleputswa District Municipality</Guid>
+        <DataUrl>Lejweleputswa District Municipality</DataUrl>
+        <ParentRegion>Free State</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Ngaka Modiri Molema District Municipality</Name>
+        <Guid>Ngaka Modiri Molema District Municipality</Guid>
+        <DataUrl>Ngaka Modiri Molema District Municipality</DataUrl>
+        <ParentRegion>North West</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Dr Ruth Segomotsi Mompati District Municipality</Name>
+        <Guid>Dr Ruth Segomotsi Mompati District Municipality</Guid>
+        <DataUrl>Dr Ruth Segomotsi Mompati District Municipality</DataUrl>
+        <ParentRegion>North West</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Dr Kenneth Kaunda District Municipality</Name>
+        <Guid>Dr Kenneth Kaunda District Municipality</Guid>
+        <DataUrl>Dr Kenneth Kaunda District Municipality</DataUrl>
+        <ParentRegion>North West</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Vhembe District Municipality</Name>
+        <Guid>Vhembe District Municipality</Guid>
+        <DataUrl>Vhembe District Municipality</DataUrl>
+        <ParentRegion>Limpopo</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Gert Sibande</Name>
+        <Guid>Gert Sibande</Guid>
+        <DataUrl>Gert Sibande</DataUrl>
+        <ParentRegion>Mpumalanga</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Frances Baard District Municipality</Name>
+        <Guid>Frances Baard District Municipality</Guid>
+        <DataUrl>Frances Baard District Municipality</DataUrl>
+        <ParentRegion>Northern Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Alfred Nzo District Municipality</Name>
+        <Guid>Alfred Nzo District Municipality</Guid>
+        <DataUrl>Alfred Nzo District Municipality</DataUrl>
+        <ParentRegion>Eastern Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Ugu District Municipality</Name>
+        <Guid>Ugu District Municipality</Guid>
+        <DataUrl>Ugu District Municipality</DataUrl>
+        <ParentRegion>KwaZulu-Natal</ParentRegion>
+    </Region>
+    <Region>
+        <Name>iLembe District Municipality</Name>
+        <Guid>iLembe District Municipality</Guid>
+        <DataUrl>iLembe District Municipality</DataUrl>
+        <ParentRegion>KwaZulu-Natal</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Mopani District Municipality</Name>
+        <Guid>Mopani District Municipality</Guid>
+        <DataUrl>Mopani District Municipality</DataUrl>
+        <ParentRegion>Limpopo</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Ehlanzeni</Name>
+        <Guid>Ehlanzeni</Guid>
+        <DataUrl>Ehlanzeni</DataUrl>
+        <ParentRegion>Mpumalanga</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Zululand District Municipality</Name>
+        <Guid>Zululand District Municipality</Guid>
+        <DataUrl>Zululand District Municipality</DataUrl>
+        <ParentRegion>KwaZulu-Natal</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Sisonke District Municipality</Name>
+        <Guid>Sisonke District Municipality</Guid>
+        <DataUrl>Sisonke District Municipality</DataUrl>
+        <ParentRegion>KwaZulu-Natal</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Amathole District Municipality</Name>
+        <Guid>Amathole District Municipality</Guid>
+        <DataUrl>Amathole District Municipality</DataUrl>
+        <ParentRegion>Eastern Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>O.R. Tambo District Municipality</Name>
+        <Guid>O.R. Tambo District Municipality</Guid>
+        <DataUrl>O.R. Tambo District Municipality</DataUrl>
+        <ParentRegion>Eastern Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Thabo Mofutsanyana District Municipality</Name>
+        <Guid>Thabo Mofutsanyana District Municipality</Guid>
+        <DataUrl>Thabo Mofutsanyana District Municipality</DataUrl>
+        <ParentRegion>Free State</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Joe Gqabi District Municipality</Name>
+        <Guid>Joe Gqabi District Municipality</Guid>
+        <DataUrl>Joe Gqabi District Municipality</DataUrl>
+        <ParentRegion>Eastern Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Cape Winelands District Municipality</Name>
+        <Guid>Cape Winelands District Municipality</Guid>
+        <DataUrl>Cape Winelands District Municipality</DataUrl>
+        <ParentRegion>Western Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Overberg District Municipality</Name>
+        <Guid>Overberg District Municipality</Guid>
+        <DataUrl>Overberg District Municipality</DataUrl>
+        <ParentRegion>Western Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Eden District Municipality</Name>
+        <Guid>Eden District Municipality</Guid>
+        <DataUrl>Eden District Municipality</DataUrl>
+        <ParentRegion>Western Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Pixley ka Seme District Municipality</Name>
+        <Guid>Pixley ka Seme District Municipality</Guid>
+        <DataUrl>Pixley ka Seme District Municipality</DataUrl>
+        <ParentRegion>Northern Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Sarah Baartman District Municipality</Name>
+        <Guid>Sarah Baartman District Municipality</Guid>
+        <DataUrl>Sarah Baartman District Municipality</DataUrl>
+        <ParentRegion>Eastern Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Central Karoo District Municipality</Name>
+        <Guid>Central Karoo District Municipality</Guid>
+        <DataUrl>Central Karoo District Municipality</DataUrl>
+        <ParentRegion>Western Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>Namakwa District Municipality</Name>
+        <Guid>Namakwa District Municipality</Guid>
+        <DataUrl>Namakwa District Municipality</DataUrl>
+        <ParentRegion>Northern Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>West Coast District Municipality</Name>
+        <Guid>West Coast District Municipality</Guid>
+        <DataUrl>West Coast District Municipality</DataUrl>
+        <ParentRegion>Western Cape</ParentRegion>
+    </Region>
+    <Region>
+        <Name>City of Cape Town</Name>
+        <Guid>City of Cape Town</Guid>
+        <DataUrl>City of Cape Town</DataUrl>
+        <ParentRegion>Western Cape</ParentRegion>
+    </Region>
+</RegionXData>

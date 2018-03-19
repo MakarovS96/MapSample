@@ -1,0 +1,613 @@
+<?xml version='1.0'?>
+<ParameterValueXData>
+    <ParameterValue>
+        <Region>Gauteng</Region>
+        <Parameter>1</Parameter>
+        <Value>12272263</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Gauteng</Region>
+        <Parameter>2</Parameter>
+        <Value>18176</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>North West</Region>
+        <Parameter>1</Parameter>
+        <Value>3509953</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>North West</Region>
+        <Parameter>2</Parameter>
+        <Value>104882</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Mpumalanga</Region>
+        <Parameter>1</Parameter>
+        <Value>4039939</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Mpumalanga</Region>
+        <Parameter>2</Parameter>
+        <Value>76495</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Limpopo</Region>
+        <Parameter>1</Parameter>
+        <Value>5404868</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Limpopo</Region>
+        <Parameter>2</Parameter>
+        <Value>125754</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>KwaZulu-Natal</Region>
+        <Parameter>1</Parameter>
+        <Value>10267300</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>KwaZulu-Natal</Region>
+        <Parameter>2</Parameter>
+        <Value>94361</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Free State</Region>
+        <Parameter>1</Parameter>
+        <Value>2745590</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Free State</Region>
+        <Parameter>2</Parameter>
+        <Value>129825</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Eastern Cape</Region>
+        <Parameter>1</Parameter>
+        <Value>6562053</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Eastern Cape</Region>
+        <Parameter>2</Parameter>
+        <Value>168966</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Western Cape</Region>
+        <Parameter>1</Parameter>
+        <Value>5822734</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Western Cape</Region>
+        <Parameter>2</Parameter>
+        <Value>129462</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Northern Cape</Region>
+        <Parameter>1</Parameter>
+        <Value>1145861</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Northern Cape</Region>
+        <Parameter>2</Parameter>
+        <Value>372889</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>ZF Mgcawu District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>236783</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>ZF Mgcawu District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>102524</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Nelson Mandela Bay Metropolitan Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>1152115</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Nelson Mandela Bay Metropolitan Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>1959</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Buffalo City Metropolitan Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>755200</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Buffalo City Metropolitan Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>2536</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Chris Hani District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>795461</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Chris Hani District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>36144</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Xhariep District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>146259</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Xhariep District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>37674</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Mangaung Metropolitan Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>747431</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Mangaung Metropolitan Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>6284</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Ekurhuleni Metropolitan Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>3178470</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Ekurhuleni Metropolitan Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>1975</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>City of Johannesburg Metropolitan Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>4434827</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>City of Johannesburg Metropolitan Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>1645</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Uthukela District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>668848</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Uthukela District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>11326</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Umkhanyakude District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>625846</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Umkhanyakude District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>12821</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>eThekwini Metropolitan Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>3442361</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>eThekwini Metropolitan Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>2291</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>uThungulu District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>907519</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>uThungulu District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>8213</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Umzinyathi District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>510838</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Umzinyathi District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>8589</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>uMgungundlovu District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>1017763</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>uMgungundlovu District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>9513</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Capricorn District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>1261463</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Capricorn District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>21705</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Amajuba District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>499839</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Amajuba District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>6911</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Sedibeng District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>916484</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Sedibeng District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>4173</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Nkangala</Region>
+        <Parameter>1</Parameter>
+        <Value>1308129</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Nkangala</Region>
+        <Parameter>2</Parameter>
+        <Value>16758</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Sekhukhune District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>1076840</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Sekhukhune District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>13528</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>City of Tshwane Metropolitan Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>2921488</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>City of Tshwane Metropolitan Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>6298</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Waterberg District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>679336</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Waterberg District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>44913</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>John Taolo Gaetsewe District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>224799</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>John Taolo Gaetsewe District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>27283</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Bojanala Platinum District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>1507505</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Bojanala Platinum District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>18333</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>West Rand District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>820995</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>West Rand District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>4087</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Fezile Dabi District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>488036</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Fezile Dabi District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>20668</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Lejweleputswa District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>627626</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Lejweleputswa District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>31930</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Ngaka Modiri Molema District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>842699</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Ngaka Modiri Molema District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>28206</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Dr Ruth Segomotsi Mompati District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>463815</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Dr Ruth Segomotsi Mompati District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>43700</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Dr Kenneth Kaunda District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>695933</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Dr Kenneth Kaunda District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>14642</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Vhembe District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>1294722</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Vhembe District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>25597</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Gert Sibande</Region>
+        <Parameter>1</Parameter>
+        <Value>1043194</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Gert Sibande</Region>
+        <Parameter>2</Parameter>
+        <Value>31841</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Frances Baard District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>382086</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Frances Baard District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>12836</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Alfred Nzo District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>801344</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Alfred Nzo District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>10731</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Ugu District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>722484</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Ugu District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>5047</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>iLembe District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>606809</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>iLembe District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>3269</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Mopani District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>1092507</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Mopani District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>20011</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Ehlanzeni</Region>
+        <Parameter>1</Parameter>
+        <Value>1688615</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Ehlanzeni</Region>
+        <Parameter>2</Parameter>
+        <Value>27896</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Zululand District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>803575</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Zululand District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>14799</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Sisonke District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>461419</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Sisonke District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>10547</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Amathole District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>892637</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Amathole District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>21595</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>O.R. Tambo District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>1364943</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>O.R. Tambo District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>12096</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Thabo Mofutsanyana District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>736238</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Thabo Mofutsanyana District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>33269</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Joe Gqabi District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>349768</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Joe Gqabi District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>25663</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Cape Winelands District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>787490</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Cape Winelands District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>21473</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Overberg District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>258176</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Overberg District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>12241</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Eden District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>574265</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Eden District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>23331</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Pixley ka Seme District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>186351</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Pixley ka Seme District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>103410</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Sarah Baartman District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>450584</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Sarah Baartman District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>58194</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Central Karoo District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>71011</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Central Karoo District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>38854</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Namakwa District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>115842</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>Namakwa District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>126836</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>West Coast District Municipality</Region>
+        <Parameter>1</Parameter>
+        <Value>391766</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>West Coast District Municipality</Region>
+        <Parameter>2</Parameter>
+        <Value>31119</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>City of Cape Town</Region>
+        <Parameter>1</Parameter>
+        <Value>3740026</Value>
+    </ParameterValue>
+    <ParameterValue>
+        <Region>City of Cape Town</Region>
+        <Parameter>2</Parameter>
+        <Value>2445</Value>
+    </ParameterValue>
+</ParameterValueXData>

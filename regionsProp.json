@@ -1,0 +1,246 @@
+{
+  "Gauteng": {
+    "area": 18176,
+    "population": 12272263
+  },
+  "North West": {
+    "area": 104882,
+    "population": 3509953
+  },
+  "Mpumalanga": {
+    "area": 76495,
+    "population": 4039939
+  },
+  "Limpopo": {
+    "area": 125754,
+    "population": 5404868
+  },
+  "KwaZulu-Natal": {
+    "area": 94361,
+    "population": 10267300
+  },
+  "Free State": {
+    "area": 129825,
+    "population": 2745590
+  },
+  "Eastern Cape": {
+    "area": 168966,
+    "population": 6562053
+  },
+  "Western Cape": {
+    "area": 129462,
+    "population": 5822734
+  },
+  "Northern Cape": {
+    "area": 372889,
+    "population": 1145861
+  },
+  "ZF Mgcawu District Municipality": {
+    "area": 102524,
+    "population": 236783
+  },
+  "Nelson Mandela Bay Metropolitan Municipality": {
+    "area": 1959,
+    "population": 1152115
+  },
+  "Buffalo City Metropolitan Municipality": {
+    "area": 2536,
+    "population": 755200
+  },
+  "Chris Hani District Municipality": {
+    "area": 36144,
+    "population": 795461
+  },
+  "Xhariep District Municipality": {
+    "area": 37674,
+    "population": 146259
+  },
+  "Mangaung Metropolitan Municipality": {
+    "area": 6284,
+    "population": 747431
+  },
+  "Ekurhuleni Metropolitan Municipality": {
+    "area": 1975,
+    "population": 3178470
+  },
+  "City of Johannesburg Metropolitan Municipality": {
+    "area": 1645,
+    "population": 4434827
+  },
+  "Uthukela District Municipality": {
+    "area": 11326,
+    "population": 668848
+  },
+  "Umkhanyakude District Municipality": {
+    "area": 12821,
+    "population": 625846
+  },
+  "eThekwini Metropolitan Municipality": {
+    "area": 2291,
+    "population": 3442361
+  },
+  "uThungulu District Municipality": {
+    "area": 8213,
+    "population": 907519
+  },
+  "Umzinyathi District Municipality": {
+    "area": 8589,
+    "population": 510838
+  },
+  "uMgungundlovu District Municipality": {
+    "area": 9513,
+    "population": 1017763
+  },
+  "Capricorn District Municipality": {
+    "area": 21705,
+    "population": 1261463
+  },
+  "Amajuba District Municipality": {
+    "area": 6911,
+    "population": 499839
+  },
+  "Sedibeng District Municipality": {
+    "area": 4173,
+    "population": 916484
+  },
+  "Nkangala": {
+    "area": 16758,
+    "population": 1308129
+  },
+  "Sekhukhune District Municipality": {
+    "area": 13528,
+    "population": 1076840
+  },
+  "City of Tshwane Metropolitan Municipality": {
+    "area": 6298,
+    "population": 2921488
+  },
+  "Waterberg District Municipality": {
+    "area": 44913,
+    "population": 679336
+  },
+  "John Taolo Gaetsewe District Municipality": {
+    "area": 27283,
+    "population": 224799
+  },
+  "Bojanala Platinum District Municipality": {
+    "area": 18333,
+    "population": 1507505
+  },
+  "West Rand District Municipality": {
+    "area": 4087,
+    "population": 820995
+  },
+  "Fezile Dabi District Municipality": {
+    "area": 20668,
+    "population": 488036
+  },
+  "Lejweleputswa District Municipality": {
+    "area": 31930,
+    "population": 627626
+  },
+  "Ngaka Modiri Molema District Municipality": {
+    "area": 28206,
+    "population": 842699
+  },
+  "Dr Ruth Segomotsi Mompati District Municipality": {
+    "area": 43700,
+    "population": 463815
+  },
+  "Dr Kenneth Kaunda District Municipality": {
+    "area": 14642,
+    "population": 695933
+  },
+  "Vhembe District Municipality": {
+    "area": 25597,
+    "population": 1294722
+  },
+  "Gert Sibande": {
+    "area": 31841,
+    "population": 1043194
+  },
+  "Frances Baard District Municipality": {
+    "area": 12836,
+    "population": 382086
+  },
+  "Alfred Nzo District Municipality": {
+    "area": 10731,
+    "population": 801344
+  },
+  "Ugu District Municipality": {
+    "area": 5047,
+    "population": 722484
+  },
+  "iLembe District Municipality": {
+    "area": 3269,
+    "population": 606809
+  },
+  "Mopani District Municipality": {
+    "area": 20011,
+    "population": 1092507
+  },
+  "Ehlanzeni": {
+    "area": 27896,
+    "population": 1688615
+  },
+  "Zululand District Municipality": {
+    "area": 14799,
+    "population": 803575
+  },
+  "Sisonke District Municipality": {
+    "area": 10547,
+    "population": 461419
+  },
+  "Amathole District Municipality": {
+    "area": 21595,
+    "population": 892637
+  },
+  "O.R. Tambo District Municipality": {
+    "area": 12096,
+    "population": 1364943
+  },
+  "Thabo Mofutsanyana District Municipality": {
+    "area": 33269,
+    "population": 736238
+  },
+  "Joe Gqabi District Municipality": {
+    "area": 25663,
+    "population": 349768
+  },
+  "Cape Winelands District Municipality": {
+    "area": 21473,
+    "population": 787490
+  },
+  "Overberg District Municipality": {
+    "area": 12241,
+    "population": 258176
+  },
+  "Eden District Municipality": {
+    "area": 23331,
+    "population": 574265
+  },
+  "Pixley ka Seme District Municipality": {
+    "area": 103410,
+    "population": 186351
+  },
+  "Sarah Baartman District Municipality": {
+    "area": 58194,
+    "population": 450584
+  },
+  "Central Karoo District Municipality": {
+    "area": 38854,
+    "population": 	71011
+  },
+  "Namakwa District Municipality": {
+    "area": 126836,
+    "population": 115842
+  },
+  "West Coast District Municipality": {
+    "area": 31119,
+    "population": 391766
+  },
+  "City of Cape Town": {
+    "area": 2445,
+    "population": 3740026
+  }
+}
